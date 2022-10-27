@@ -1,10 +1,10 @@
-import { SegundaAula } from "./aulas/SegundaAula"
+import { QuintaAula } from "./lessons/QuintaAula"
 
 function App() {
 
   return (
     <div>
-      <SegundaAula />
+      <QuintaAula />
     </div>
   )
 }
